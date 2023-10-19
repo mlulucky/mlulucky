@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm a new developer.
 I hope to be a good developer.
 
 I'm currently learning✨🌱
